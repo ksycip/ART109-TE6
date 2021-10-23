@@ -5,3 +5,13 @@ html, body {
 canvas {
   display: block;
 }
+
+body {
+  background-color: lavender;
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+
+}
